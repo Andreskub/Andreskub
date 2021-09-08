@@ -1,5 +1,18 @@
 ### Hi, I'm Andrés Kübler! 👋
 
+
+I'm a software developer and currently I'm studying a Bachelor's Degree in Systems Analysis at University of Buenos Aires. 
+
+<br>
+
+🔭 I’m currently working on ...
+- QA in SuperDigital
+- 2Innovate Technical consultant for Ualá 
+
+<br>
+📫 How to reach me: <br><br>
+<a href="https://www.linkedin.com/in/andr%C3%A9s-k%C3%BCbler-2675b1174/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 <!--
 **Andreskub/Andreskub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
