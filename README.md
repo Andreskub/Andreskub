@@ -7,7 +7,7 @@ I'm a software developer and currently I'm studying a Bachelor's Degree in Syste
 
 🔭 I’m currently working on ...
 - QA in SuperDigital
-- 2Innovate Technical consultant for Ualá 
+- 2InnovateIT Technical consultant for Ualá 
 
 <br>
 📫 How to reach me: <br><br>
