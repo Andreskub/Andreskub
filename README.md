@@ -11,7 +11,8 @@ I'm a software developer and currently I'm studying a Bachelor's Degree in Syste
 
 <br>
 📫 How to reach me: <br><br>
-<a href="https://www.linkedin.com/in/andr%C3%A9s-k%C3%BCbler-2675b1174/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/andres-kubler/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"></a>
+
 
 <!--
 **Andreskub/Andreskub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
