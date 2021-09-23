@@ -6,7 +6,6 @@ I'm a software developer and currently I'm studying a Bachelor's Degree in Syste
 <br>
 
 🔭 I’m currently working on ...
-- QA in SuperDigital
 - 2InnovateIT Technical consultant for Ualá 
 
 <br>
