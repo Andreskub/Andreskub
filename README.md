@@ -3,14 +3,19 @@
 
 I'm a software developer and currently I'm studying a Bachelor's Degree in Systems Analysis at University of Buenos Aires. 
 
-<br>
+#
 
-🔭 I’m currently working on ...
-- 2InnovateIT Technical consultant for Ualá 
+![Andres's github stats](https://github-readme-stats.vercel.app/api?username=Andreskub&count_private=true&show_icons=true&theme=onedark)
 
-<br>
-📫 How to reach me: <br><br>
-<a href="https://www.linkedin.com/in/andres-kubler/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"></a>
+![Andres's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreskub&bg_color=282c34&title_color=e3be7a&text_color=df6d74)
+
+
+#
+<div align="center">
+  <a href="https://www.linkedin.com/in/andres-kubler/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
+  </a>
+<div>
 
 
 <!--
