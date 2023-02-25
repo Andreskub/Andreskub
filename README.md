@@ -1,7 +1,7 @@
 ### Hi, I'm Andrés Kübler! 👋
 
 
-I'm a software developer and currently I'm studying a Bachelor's Degree in Systems Analysis at University of Buenos Aires. 
+I am a software developer and I am currently studying software engineering at the University of El Savlador.
 
 #
 
