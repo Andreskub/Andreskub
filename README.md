@@ -1,7 +1,7 @@
 ### Hi, I'm Andrés Kübler! 👋
 
 
-I am a software developer and I am currently studying software engineering at the University of El Savlador.
+I am a software developer and I am currently studying software engineering at the University of El Salvador.
 
 #
 
